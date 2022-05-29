@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../../../src/ui/AutoformControls/AutoField.tsx"],"names":[],"mappings":"8GAAA,qBAEe,YAAf","file":"static/js/72.87071594.chunk.js","sourcesContent":["import { AutoField } from 'uniforms-material';\nexport default AutoField;\n//# sourceMappingURL=AutoField.js.map"],"sourceRoot":""}
